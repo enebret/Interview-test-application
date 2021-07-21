@@ -6,13 +6,15 @@ body{
 h3 {
  color: black;
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- margin-left: 35%;
+ margin-left: 50%;
+ margin-right: 50%;
  font-size: 50px;
+ position: relative;
 }
 .md{
-    margin-left: 40%;
+    margin-left: 50%;
     margin-top: 10%;
-    position: fixed;
+    position: relative;
 }
 #maap{
  color: "white";
