@@ -1,5 +1,7 @@
 body{
     margin-top: 20%;
+    margin-right: auto;
+    margin-left: auto;
 }
 h3 {
  color: black;
@@ -10,6 +12,7 @@ h3 {
 .md{
     margin-left: 40%;
     margin-top: 10%;
+    position: fixed;
 }
 #maap{
  color: "white";
