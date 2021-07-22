@@ -1,18 +1,11 @@
 body{
-    margin-top: 20%;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
 }
-h3 {
+h3#wide,#cide {
  color: black;
- font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- margin-left: 50%;
- margin-right: 50%;
- font-size: 50px;
- position: relative;
 }
 .md{
-    margin-left: 50%;
+    margin-left: auto;
     margin-top: 10%;
     position: relative;
 }
@@ -24,7 +17,7 @@ h3 {
 .cutton{
      color: white;
      background-color: black;
-    font-weight: 900;
+    font-weight: 400;
     width: 200px;
     height: 30px;
     padding: "10px";
@@ -35,7 +28,7 @@ h3 {
 .button{
     color: black;
     background-color: white;
-    font-weight: 900;
+    font-weight: 400;
     width: 200px;
     height: 30px;
     padding: "10px";
